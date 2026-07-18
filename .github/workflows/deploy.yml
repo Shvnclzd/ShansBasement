@@ -4,10 +4,7 @@ on:
   push:
     branches:
       - v5
-
-env:
-  THEME_NAME: <primary> #ace with the name of your primary theme
-
+ 
 permissions:
   contents: read
   pages: write
@@ -17,9 +14,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
  
-- name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- $primary
-
 jobs:
   build:
     runs-on: ubuntu-latest
