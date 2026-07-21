@@ -154,6 +154,10 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Table of contents
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
     layout:
       position: left
       priority: 50
@@ -201,12 +205,7 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-  - source: github:quartz-community/reader-mode
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
+
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -226,7 +225,6 @@ plugins:
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
