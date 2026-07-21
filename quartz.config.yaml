@@ -41,6 +41,14 @@ configuration:
         highlight: rgba(201, 82, 94, 0.12)
         textHighlight: "#e0b96e88"
 plugins:
+
+  - source: github:quartz-community/og-image
+    enabled: true
+    options:
+      colorScheme: lightMode # "lightMode" or "darkMode"
+      width: 1200
+      height: 630
+      excludeRoot: false
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
