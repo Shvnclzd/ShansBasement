@@ -1,7 +1,7 @@
 ---
-title: Welcome to my garden
+title: Welcome
 ---
-## About me and this website
+## About me and this site
 Im Shanice, recently graduated from my bachelors in Computer and Network Technology, also known as IT/Information Technology.
 
 This website just includes a range of things, from resources, projects, documentation and blogs.
