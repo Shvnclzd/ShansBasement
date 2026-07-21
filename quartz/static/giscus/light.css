@@ -6,7 +6,7 @@
 main {
   --color-prettylights-syntax-comment: #6e7781;
   --color-prettylights-syntax-constant: #0550ae;
-  --color-prettylights-syntax-entity: #8250df;
+  --color-prettylights-syntax-entity: #1a0049;
   --color-prettylights-syntax-storage-modifier-import: #24292f;
   --color-prettylights-syntax-entity-tag: #116329;
   --color-prettylights-syntax-keyword: #cf222e;
@@ -30,7 +30,7 @@ main {
   --color-prettylights-syntax-markup-changed-bg: #ffd8b5;
   --color-prettylights-syntax-markup-ignored-text: #eaeef2;
   --color-prettylights-syntax-markup-ignored-bg: #0550ae;
-  --color-prettylights-syntax-meta-diff-range: #8250df;
+  --color-prettylights-syntax-meta-diff-range: #130038;
   --color-prettylights-syntax-brackethighlighter-angle: #57606a;
   --color-prettylights-syntax-sublimelinter-gutter-mark: #8c959f;
   --color-prettylights-syntax-constant-other-reference-link: #0a3069;
@@ -76,8 +76,8 @@ main {
   --color-accent-subtle: #ddf4ff;
   --color-success-fg: #1a7f37;
   --color-attention-fg: #9a6700;
-  --color-attention-muted: rgb(212 167 44 / 40%);
-  --color-attention-subtle: #fff8c5;
+  --color-attention-muted: rgba(78, 57, 0, 0.4);
+  --color-attention-subtle: #8c7c00;
   --color-danger-fg: #d1242f;
   --color-danger-muted: rgb(255 129 130 / 40%);
   --color-danger-subtle: #ffebe9;
