@@ -1,13 +1,13 @@
 ---
 title: Welcome
 ---
-## About me and this site
-Im Shanice, recently graduated from my bachelors in Computer and Network Technology, also known as IT/Information Technology.
+## About this site
 
-This website just includes a range of things, from resources, projects, documentation and blogs.
+This website includes a range of things, from resources, projects, documentation and blogs, all relating to IT work I've done.
 
-This site is also self-hosted with the help of Quartz!
+This site is also self-hosted with Github Pages and the help of Quartz!
 
 To get started, choose any that catches your eye: 
+
 
 
