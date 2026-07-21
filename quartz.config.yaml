@@ -41,11 +41,10 @@ configuration:
         highlight: rgba(201, 82, 94, 0.12)
         textHighlight: "#e0b96e88"
 plugins:
-
   - source: github:quartz-community/og-image
     enabled: true
     options:
-      colorScheme: lightMode # "lightMode" or "darkMode"
+      colorScheme: lightMode
       width: 1200
       height: 630
       excludeRoot: false
@@ -148,6 +147,7 @@ plugins:
       enableRSS: true
   - source: github:quartz-community/favicon
     enabled: true
+    image: favicon.ico
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
@@ -213,7 +213,6 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -264,7 +263,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
