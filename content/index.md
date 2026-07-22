@@ -11,7 +11,7 @@ This website includes a range of things, from resources, projects, documentation
 
 This site is hosted with Github Pages and the help of Quartz!
 
-To see what I have been up to, check out the folder that says "Start Here"
+To see the projects I have done or currently doing, check out the folder that says "Start Here" and continue from there.
 
 > *==If you have never used Obsidian before, navigating this page may be complex, think of it as a regular file system which technically, it is.==*
 
