@@ -4,4 +4,7 @@ views:
     order:
       - file.name
       - file.folder
-    cardSize: 180
+    sort:
+      - property: file.folder
+        direction: ASC
+    cardSize: 290
