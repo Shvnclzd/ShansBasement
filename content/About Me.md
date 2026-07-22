@@ -5,4 +5,6 @@ I am currently preparing for my [[CompTIA A+]] certification, and I share my pro
 
 Outside of IT, I enjoy creating art. I love combining creativity with technology, whether through digital art, design, or tools that let me bring both worlds together. I am inspired by the idea of building things that are both functional and visually meaningful.
 
-[[https://www.shanicecalzada.com/]]
+[[https://www.shanicecalzada.com/]]                                                             ![[Illustration58.png|186]]
+
+
