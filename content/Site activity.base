@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.name != "index"
 views:
   - type: table
     name: Table
