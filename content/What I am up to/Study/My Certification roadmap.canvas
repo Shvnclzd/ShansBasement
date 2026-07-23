@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"0978d4691067b9dc","type":"text","text":"CompTIA A+","x":-280,"y":-300,"width":160,"height":60},
-		{"id":"b5af0f408583dee7","type":"text","text":"CCNA","x":-30,"y":-200,"width":90,"height":60},
+		{"id":"b5af0f408583dee7","type":"text","text":"CCNA","x":-30,"y":-200,"width":110,"height":50},
 		{"id":"d13a7978d20e0b21","type":"text","text":"Cloud computing, I'm thinking Azure or AWS, maybe both","x":-340,"y":-100,"width":250,"height":120},
 		{"id":"837464d32be981a8","type":"text","text":"","x":-20,"y":60,"width":250,"height":60}
 	],

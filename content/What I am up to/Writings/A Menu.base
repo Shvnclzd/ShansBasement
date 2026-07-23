@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("What I am up to/Writings")
+    - not:
+        - file.basename == "A Menu"
+views:
+  - type: cards
+    name: Table
+    order:
+      - file.name
+      - file.tags
+    cardSize: 230
+    imageAspectRatio: 1.2
