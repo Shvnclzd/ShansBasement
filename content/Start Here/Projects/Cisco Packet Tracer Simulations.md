@@ -8,7 +8,7 @@ During my time in University, I learned how to use Cisco Packet Tracer, and as t
 (I'm Especially proud of this one!!!)
 This one is a school network, I tried my best to segment the networks. 
 
-![[Shanice Calzada ASIG3COTN3315 (finaldraft).pdf
+![[Shanice Calzada ASIG3COTN3315 (finaldraft).pdf]]
 
 Office Layout project!
 This project was basically creating an office with visio and simulate it with cisco
