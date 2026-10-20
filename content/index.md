@@ -9,7 +9,7 @@ title: Welcome
 
 This website includes a range of things, from resources, projects, documentation and blogs, all relating to IT work I've done.
 
-This site is hosted with Github Pages and the help of Quartz!
+This site is hosted with Github Pages and the help of Quartz which converts my obsidian vault into a site!
 
 To see the projects I have done or currently doing, check out the folder that says "Start Here" and continue from there.
 
