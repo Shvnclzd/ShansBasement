@@ -12,7 +12,7 @@ Unfortunately,  I lost most of the documentation for those previous versions due
 - Internal drive 500GB
 - Separate router, maybe, might segment from my home network, not sure
 ### Software
-- Definitely something linux based, no graphical interface. Thinking of ZimaOS
+- Definitely something linux based, no graphical interface. Thinking of [ZimaOS](https://www.zimaspace.com/zimaos/download)
 
 
 ---------Work in progress------------------------------------------------
